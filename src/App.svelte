@@ -27,7 +27,7 @@
 </script>
 <Navbar color="light" light class="mb-4">
   <NavbarBrand href="/">K-NewsWave</NavbarBrand>
-  <Image style="width:120px" src="/img/ihopper-logo.png" alt="아이호퍼"></Image>
+  <Image style="width:120px" src="https://wise-kim.github.io/hackerton-demo/img/ihopper-logo.png" alt="아이호퍼"></Image>
 </Navbar>
 
 <Container lg>
@@ -68,7 +68,7 @@
   <Row>
     <Col  class="mt-4">
       <audio controls >
-        <source src="/audio/NEWS_ID.mp3" type="audio/mpeg">
+        <source src="https://wise-kim.github.io/hackerton-demo/audio/NEWS_ID.mp3" type="audio/mpeg">
       </audio>
     </Col>
   </Row>
@@ -77,7 +77,7 @@
   <Row>
     <Col  class="mt-4">
       <audio controls >
-        <source src="/audio/NEWS_JP.mp3" type="audio/mpeg">
+        <source src="https://wise-kim.github.io/hackerton-demo/audio/NEWS_JP.mp3" type="audio/mpeg">
       </audio>
     </Col>
   </Row>
